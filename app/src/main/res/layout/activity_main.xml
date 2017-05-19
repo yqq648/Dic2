@@ -10,7 +10,7 @@
 
     <Button
         android:gravity="center"
-        android:text="Button"
+        android:text="保存密码"
         android:layout_width="216dp"
         android:layout_height="wrap_content"
         android:id="@+id/button"
@@ -26,18 +26,12 @@
         android:layout_weight="0.17">
 
         <Button
-            android:text="注册"
+            android:text="查看密码"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="114dp"
             android:id="@+id/button2"
             android:layout_weight="1" />
 
-        <Button
-            android:text="登陆"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/button3"
-            android:layout_weight="1" />
     </LinearLayout>
 
 </LinearLayout>
